@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f9fff91-503f-4ef4-ae06-51eb40e56e5d" name="Default" comment="" />
+    <list default="true" id="0f9fff91-503f-4ef4-ae06-51eb40e56e5d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task10/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task10/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task11/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task11/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task12/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task12/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task4/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task4/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task5/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task5/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task6/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task6/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task7/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task7/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task8/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task8/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task9/src/Task.kt" afterPath="$PROJECT_DIR$/lesson1/task9/src/Task.kt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +22,100 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson1/task3/src/Task.kt">
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task4/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="0">
-              <caret line="0" column="77" lean-forward="false" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
+              <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task5/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="0">
+              <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task6/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="30">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task7/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task8/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task9/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="45">
+              <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task10/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="45">
+              <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task11/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="135">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson1/task12/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -33,6 +127,11 @@
       <list>
         <option value="$PROJECT_DIR$/lesson1/task1/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson1/task3/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task4/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task7/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task8/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task9/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson1/task12/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -49,6 +148,7 @@
     <option name="width" value="1409" />
     <option name="height" value="814" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -75,6 +175,60 @@
               <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
               <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kotlin_Koans" type="f376cab5:CourseDirectoryNode" />
+              <item name="lesson1" type="4e68cbcb:LessonDirectoryNode" />
+              <item name="src" type="89bc682b:TaskDirectoryNode" />
             </path>
             <path>
               <item name="Kotlin_Koans" type="b2602c69:ProjectViewProjectNode" />
@@ -211,12 +365,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526356877713</updated>
-      <workItem from="1526356908841" duration="1843000" />
+      <workItem from="1526356908841" duration="8052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1843000" />
+    <option name="totallyTimeSpent" value="8052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1409" height="814" extended-state="0" />
@@ -226,20 +380,20 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cargo" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SvgViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962447" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17922458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24652524" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29553768" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -283,8 +437,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task3/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task4/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="0">
-          <caret line="0" column="77" lean-forward="false" selection-start-line="0" selection-start-column="77" selection-end-line="0" selection-end-column="77" />
+          <caret line="0" column="38" lean-forward="false" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" lean-forward="false" selection-start-line="0" selection-start-column="74" selection-end-line="0" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task7/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task8/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task9/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="45">
+          <caret line="3" column="55" lean-forward="false" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task10/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="45">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task11/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task12/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
